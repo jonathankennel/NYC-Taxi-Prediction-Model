@@ -1,7 +1,7 @@
 # NYC Taxi Fare Prediction
 
 
-## View notebook file: https://colab.research.google.com/drive/195FYF83DS3D_GxO2flHYuE2OkTU5X8bI?usp=sharing
+View notebook file: https://colab.research.google.com/drive/195FYF83DS3D_GxO2flHYuE2OkTU5X8bI?usp=sharing
 
 ## Project Overview
 This project aims to predict taxi fares in New York City using machine learning techniques. The NYC Taxi Fare Prediction Dataset, consisting of over 55 million trip records from 2009 to 2015, was used to build and evaluate a neural network model. The dataset includes essential features such as pickup and drop-off coordinates, timestamps, and fare amounts, making it ideal for analyzing urban transportation patterns and implementing predictive models.
